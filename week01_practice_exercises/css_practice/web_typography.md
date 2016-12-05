@@ -261,3 +261,5 @@ Then finish it up
 ###Activity
 
 > Create a responsive blog (media queries) using what we learned about fonts. Utilize a Google font to make your blog pretty. 
+
+DIKY!!
