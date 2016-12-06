@@ -5,11 +5,12 @@
 // A. ||||||| ARRAY PLAY! |||||||
 
 // 1. Make a roster variable and set it to an array of the players.
-console.log("1. The Roster\n")
+var roster = ["Judy Kim","Sam Fishinbottom","Mike Pittz","Amy Vlor","Greg Craig","Craig Greg","Lex Luger","Klempt Klarc","Amit Patel","Joan Fabric","Margaret Kalanchoe","Lucy Bascetta"];
+console.log("The Roster")
 
 
 
-console.log("\n");
+roster.pop(0,1,2);
 // 2. Set the batting lineup to the last 9 people on the roster.
 console.log("2. The Lineup\n")
 
